@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonishaNarayanan22
 - 👀 I’m interested in UI/UX development,designing and Full Stack developement   
-- 🌱 I’m currently learning UI/UX designer
+- 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me crazydesignerdeveloper@gmail.com
 
